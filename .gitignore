@@ -1,0 +1,10 @@
+# Large count matrices
+count_matrix&metadata/*.tsv
+count_matrix&metadata/*.csv
+
+# Large result objects and tables
+results_LUNG/01_objects/*.rds
+results_LUNG/02_tables/**/*.csv
+results_LUNG/03_plots/**/*.tiff
+
+# Keep only PNG plots and enrichment CSVs
